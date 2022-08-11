@@ -1,0 +1,156 @@
+body {
+   position: fixed;
+}
+
+a {
+   text-decoration: none;
+   color: #000;
+}
+
+.logofirst {
+   width: 16px;
+   height: 16px;
+   left: 110px;
+   top: 58px;
+}
+.LL {
+   position: absolute;
+   width: 16px;
+   height: 21px;
+   left: 1600px;
+   top: 20px;
+}
+.LT {
+   position: fixed;
+   top: 0px;
+   right: 0px;
+   z-index: -1;
+}
+.LF {
+   position: absolute;
+   left: 640px;
+   top: -43px;
+   transform: rotate(16deg);
+}
+.LCF {
+   position: absolute;
+   left: 970px;
+   top: 280px;
+}
+
+.list1 {
+   font-family: 'Poppins', sans-serif;
+   font-size: 18px;
+   position: absolute;
+   width: 84px;
+   height: 27px;
+   left: 80px;
+   top: 11px;
+}
+.li2 {
+   font-family: 'Poppins', sans-serif;
+   font-size: 14px;
+   position: absolute;
+   width: 67px;
+   height: 21px;
+   left: 600px;
+   top: 14px;
+}
+.li3 {
+   font-family: 'Poppins', sans-serif;
+   font-size: 14px;
+   position: absolute;
+   width: 67px;
+   height: 21px;
+   left: 800px;
+   top: 14px;
+}
+.li4 {
+   font-family: 'Poppins', sans-serif;
+   font-size: 14px;
+   position: absolute;
+   width: 67px;
+   height: 21px;
+   left: 1000px;
+   top: 14px;
+}
+
+.menu {
+   list-style-type: none;
+}
+
+.maintext {
+   position: absolute;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 44px;
+   line-height: 66px;
+   width: 81px;
+   height: 66px;
+   left: 100px;
+   top: 290px;
+   color: #FF922C;
+}
+.maintext2 {
+   position: absolute;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 45px;
+   line-height: 50px;
+   width: 367px;
+   height: 100px;
+   left: 100px;
+   top: 370px;
+}
+.maintext3 {
+   position: absolute;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 40px;
+   line-height: 50px;
+   width: 367px;
+   height: 100px;
+   left: 100px;
+   top: 430px;
+}
+.text {
+   position: absolute;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 50px;
+   width: 367px;
+   height: 100px;
+   left: 100px;
+   top: 520px;
+   line-height: 20px;
+   text-transform: capitalize;
+}
+
+.button {
+   font-family: Poppins;
+   position: absolute;
+   width: 163px;
+   height: 48px;
+   left: 100px;
+   top: 630px;
+   background: #FF922C;
+   box-shadow: 0px 20px 40px #F4E2D1;
+   border-radius: 69px;
+}
+.watch {
+   position: absolute;
+   width: 112px;
+   height: 20px;
+   left: 100px;
+   top: 742px;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 13.1595px;
+   line-height: 20px;
+}
